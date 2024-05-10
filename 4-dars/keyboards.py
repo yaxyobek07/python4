@@ -21,6 +21,3 @@ def shaharqoshish(sity):
     )
 
     return markup
-
-
-

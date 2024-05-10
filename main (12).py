@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor
 
 from knopkalarfayli import asosiymenubutton, maxsulotlarbutoon
 
-api = '6487583369:AAELjgDAFRTQmIORQq4FXydcK61QAu5CU6g'
+api = '7093062747:AAH7oKdORlpZZGxPYjgl0LCV1VZeahJFyXk'
 
 bot = Bot(api)
 dp = Dispatcher(bot)
